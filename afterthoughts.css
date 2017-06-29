@@ -1,0 +1,30 @@
+/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(http://i86.photobucket.com/albums/k81/braveVRprojectpictures/theafterthoughts_zpsziiqmhlc.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#nextbtn button {
+	float: right;
+	  width: 84px;
+    height: 50px;   
+    font-size:25px;
+    font-weight:600;
+    font-family: arial;
+    color: black;
+}
+

@@ -1,0 +1,52 @@
+/*
+ * Start Bootstrap - Full (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #978A9E;
+    font-family: 'Old Standard TT', serif;
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.full {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#buttonone {
+	margin-top: 270px;
+}
+.btn-group .button {
+    margin-left: 100px;
+    background-color: #775ADD; /* Green */
+    border: 1px solid pink;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 1000px;
+    display: block;
+}
+
+
+#centerimage {
+    position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 700px; 
+   height: 800px;
+   margin-top: -160px;  /* Half the height */
+   margin-left: -40px;  /*Half the width */
+}
+
+h6 {
+  font-family: 'Cinzel', serif;
+}

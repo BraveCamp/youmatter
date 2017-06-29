@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="781" height="600" viewBox="0 0 781 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Whitehead link bisexuality symbol</title>
+<defs><path id="Figur8" d="M-141.4214-141.4214L141.4214,141.4214A200,200 0 1,0 141.4214-141.4214L-141.4214,141.4214A200,200 0 1,1-141.4214-141.4214Z"/>
+<linearGradient id="PinkBlue" gradientUnits="userSpaceOnUse" x1="-252.8427" y1="0" x2="282.8427" y2="0"><stop offset="0" style="stop-color:#df8594"/><stop offset="1" style="stop-color:#7a7ecf"/></linearGradient></defs>
+<g transform="translate(344,251.5)scale(0.65,-0.65)" stroke-width="60" stroke="#ffffff" fill="none">
+<g stroke-linecap="round" stroke-width="84"><path id="L" d="M-282.8427-200V-492.8427M-141.4214-351.4214H-424.2641"/>
+<g id="M"><path d="M424.2641,141.4214L624.2641,341.4214"/>
+<path stroke-linejoin="round" d="M424.2641,341.4214H624.2641V141.4214"/></g></g>
+<circle r="200" stroke-width="84"/><circle stroke="#94708c" r="200"/>
+<use xlink:href="#Figur8" stroke-width="84"/><use xlink:href="#Figur8" stroke="url(#PinkBlue)"/>
+<path stroke-width="84" d="M173.2051,100A200,200 0 0,1 100,173.2051M-173.2051-100A200,200 0 0,1-100-173.2051M-32-32L32,32"/>
+<path stroke="#94708c" d="M174.9239,96.9619A200,200 0 0,1 96.9619,174.9239M-174.9239-96.9619A200,200 0 0,1-96.9619-174.9239"/>
+<path stroke="url(#PinkBlue)" d="M-34-34L34,34"/>
+<g stroke-linecap="round"><use xlink:href="#L" stroke="#df8594"/>
+<use xlink:href="#M" stroke="#7a7ecf"/></g></g></svg>
